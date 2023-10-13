@@ -24,7 +24,7 @@ We are curius and want to atempt to make a long beam using standard cnc router w
     - Job one does the V groove, cut's the profile 19mm x 500mm and clears a 19mm x 500mm pocket.
     - -Job two only does a V groove and the part from Job 1 is pressed in the groove.
    
-![placeholder photo]()
+![placeholder photo](project_photo(Medium).jpg)
 ![placeholder photo]()
 
 
