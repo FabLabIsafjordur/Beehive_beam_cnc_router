@@ -23,8 +23,16 @@ We are curius and want to atempt to make a long beam using standard cnc router w
   - Do a two sided job
     - Job one does the V groove, cut's the profile 19mm x 500mm and clears a 19mm x 500mm pocket.
     - -Job two only does a V groove and the part from Job 1 is pressed in the groove.
+
+## conclution
+
+It works and can be improved
    
 ![placeholder photo](project_photo(Medium).jpg)
-![placeholder photo]()
+![placeholder photo](//images/groove_fit.jpg)
+![placeholder photo](//images/wedge.jpg)
+![placeholder photo](//images/assembly.jpg)
+![placeholder photo](//images/assembly_overview.jpg)
+![placeholder photo](//images/fail.jpg)
 
 
