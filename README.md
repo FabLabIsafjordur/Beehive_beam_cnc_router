@@ -26,13 +26,12 @@ We are curius and want to atempt to make a long beam using standard cnc router w
 
 ## conclution
 
-It works and can be improved
+It works and can be improved. precision can be improved by using the cnc router and surface plane the spoil board.
    
 ![placeholder photo](project_photo(Medium).jpg)
-![placeholder photo](//images/groove_fit.jpg)
-![placeholder photo](//images/wedge.jpg)
-![placeholder photo](//images/assembly.jpg)
-![placeholder photo](//images/assembly_overview.jpg)
-![placeholder photo](//images/fail.jpg)
-
-
+![fit](images/groove_fit.jpg)
+![wedge](images/wedge.jpg)
+![assem](images/assembly.jpg)
+![assemoverv](images/assembly_overview.jpg)
+![fail](images/fail.jpg)
+Part failed due to tabs not being strong enough
